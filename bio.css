@@ -1,0 +1,12 @@
+/* .pic{
+     background-image: url(pic.jpeg);
+     width: 100px;
+} */
+
+
+#pic{
+    border: 10px solid rgba(54, 189, 189, 0.5);
+    border-radius: 10px;
+    box-shadow: 10px 8px 8px 8px rgba(168, 103, 57, 0.589);
+    padding-left: 300px;
+}
